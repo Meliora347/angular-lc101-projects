@@ -1,11 +1,18 @@
 h3 {
    color: brown;
+   font-size: 4vw;
 }
 
 img {
+   width:70%;
+    height:auto;
 
 }
 
 .photos {
    text-align: center;
+   padding-left: 15px;
+   padding-right:15px;
+   border-left:2px solid;
+   border-right:2px solid; 
 }

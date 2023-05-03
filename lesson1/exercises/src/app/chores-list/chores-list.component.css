@@ -1,0 +1,14 @@
+.chores{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 2vw;
+    color:blueviolet
+}
+
+h3{
+    text-decoration: underline;
+    font-size: 4vw;
+}
+
+ul{
+    font-style:italic
+}
